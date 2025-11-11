@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177381965289",
+    "project_id": "boet-system-902d8",
+    "storage_bucket": "boet-system-902d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177381965289:android:b84fca898d461b10d01f78",
+        "android_client_info": {
+          "package_name": "com.boetsystem.app.boet_system_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Px2_botC5luRJ_TO9TdrVOEebf10AmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
